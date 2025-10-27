@@ -3,8 +3,6 @@ content_type: page
 description: This section includes general information about the course including
   the course meeting times, a course description, required books, and the grading
   policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -29,9 +27,9 @@ At the beginning of the eighteenth century, Russia began to come into its own as
 Required Books
 --------------
 
-Antonova, Katherine Pickering. _An Ordinary Marriage: The World of a Gentry Family in Provincial Russia_. Oxford University Press, 2017. ISBN: 9780190616748. \[Preview with [Google Books](https://www.google.com/books/edition/An_Ordinary_Marriage/53yuDQAAQBAJ?hl=en&gbpv=1)\]
+Antonova, Katherine Pickering. _An Ordinary Marriage: The World of a Gentry Family in Provincial Russia_. Oxford University Press, 2017. ISBN: 9780190616748. \[Preview with {{% resource_link "f0623649-4e4e-4b46-a535-7beefe412fb1" "Google Books" %}}\]
 
-Gogol, Nikolai. _The Overcoat & Other Short Stories (Dover Thrift Editions)_. Dover Publications,1992. ISBN: 9780486270579. \[Preview with [Google Books](https://www.google.com/books/edition/The_Overcoat_and_Other_Short_Stories/-bLCAgAAQBAJ?hl=en&gbpv=1)\]
+Gogol, Nikolai. _The Overcoat & Other Short Stories (Dover Thrift Editions)_. Dover Publications,1992. ISBN: 9780486270579. \[Preview with {{% resource_link "0c74df2e-dd6e-495f-943d-919673eac5b3" "Google Books" %}}\]
 
 Kivelson, Valerie A., and Ronald Grigor Suny. _Russia’s Empires_. Oxford University Press, 2016. ISBN: 9780199924394. 
 
